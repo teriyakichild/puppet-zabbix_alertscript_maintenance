@@ -1,7 +1,7 @@
 puppet-zabbix_alertscript_maintenance
 ==============
-This is a simple module that allows for configuration of the (Maintenance
-mode Alert script for Zabbix)[https://github.com/gregswift/zabbix-alertscript-maintenance].
+This is a simple module that allows for configuration of the [Maintenance
+mode Alert script for Zabbix](https://github.com/gregswift/zabbix-alertscript-maintenance).
 
 Examples
 ========
