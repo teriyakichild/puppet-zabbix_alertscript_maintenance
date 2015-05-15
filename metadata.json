@@ -1,0 +1,13 @@
+{
+  "name": "xaeth-zabbix_alertscript_maintenance",
+  "version": "0.1.0",
+  "author": "Greg Swift",
+  "summary": "Install Maintenance alertscript for Zabbix",
+  "license": "Apache License, Version 2.0",
+  "source": "https://github.com/gregswift/puppet-zabbix_alertscript_maintenance",
+  "project_page": "UNKNOWN",
+  "issues_url": "https://github.com/gregswift/puppet-zabbix_alertscript_maintenance/issues",
+  "dependencies": [
+  
+  ]
+}

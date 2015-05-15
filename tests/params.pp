@@ -1,0 +1,1 @@
+include zabbix_alertscript_maintenance::params
