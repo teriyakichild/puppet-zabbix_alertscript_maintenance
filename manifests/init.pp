@@ -127,7 +127,7 @@ class zabbix_alertscript_maintenance (
     mode    => $zabbix_alertscript_maintenance::params::mode,
     owner   => $zabbix_alertscript_maintenance::params::owner,
     group   => $zabbix_alertscript_maintenance::params::group,
-    content => template("${module_name}/${zabbix_alertscript_maintenance::params::configfile}.erb'
+    content => template("${module_name}/${zabbix_alertscript_maintenance::params::configfile}.erb")
     require => Package[$zabbix_alertscript_maintenance::params::package],
   }
 }
